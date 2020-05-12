@@ -1,6 +1,5 @@
 body{
-    background: url(../images/curr2.jpg);
-    background-size: cover;
+    background: #333;
 }
 .main{
     height: 100vh;
